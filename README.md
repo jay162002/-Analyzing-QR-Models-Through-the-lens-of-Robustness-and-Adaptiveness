@@ -51,12 +51,21 @@ Through experiments on both **synthetic** and **real-world benchmark datasets**,
 
 ### Pinball loss Results
 #### 1) For Normal synthetic Data
-![](DATASET/synthetic_data.png)
+![](PINBALL_Results/1.png)
 
 #### 2) For Hetroscardistic synthetic Data
-![](DATASET/synthetic_data.png)
+![](PINBALL_Results/2.png)
 
 #### 3) RMSE plot
-![](DATASET/synthetic_data.png)
+![](PINBALL_Results/RMSE_plot.png)
 
 
+### MAQR Results
+#### 1) For Normal synthetic Data
+![](MAQR_Results/1.png)
+
+#### 2) For Hetroscardistic synthetic Data
+![](MAQR_Results/2.png)
+
+#### 3) RMSE plot
+![](MAQR_Results/RMSE_plot.png)

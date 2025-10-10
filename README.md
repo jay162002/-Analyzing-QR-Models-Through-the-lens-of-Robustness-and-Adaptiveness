@@ -44,8 +44,13 @@ Through experiments on both **synthetic** and **real-world benchmark datasets**,
 
 ### Synthetic Datasets used
 
-### 1) Normal 
+#### 1) Normal 
 ![](DATASET/synthetic_data.png)
 
-### 2) Hetroscardistic
+#### 2) Hetroscardistic
 ![](DATASET/Hetroscardistic_data.png)
+
+
+
+
+

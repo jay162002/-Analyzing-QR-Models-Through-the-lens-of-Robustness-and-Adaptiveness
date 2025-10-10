@@ -47,13 +47,13 @@ Through experiments on both **synthetic** and **real-world benchmark datasets**,
 
 
 
-## Results
+## Synthetic Data Results
 
 ### Pinball loss Results
-#### 1) For Normal synthetic Data
+#### 1) For Normal Data
 ![](PINBALL_Results/1.png)
 
-#### 2) For Hetroscardistic synthetic Data
+#### 2) For Hetroscardistic Data
 ![](PINBALL_Results/2.png)
 
 #### 3) RMSE plot
@@ -61,10 +61,10 @@ Through experiments on both **synthetic** and **real-world benchmark datasets**,
 
 
 ### MAQR Results
-#### 1) For Normal synthetic Data
+#### 1) For Normal Data
 ![](MAQR_Results/1.png)
 
-#### 2) For Hetroscardistic synthetic Data
+#### 2) For Hetroscardisti Data
 ![](MAQR_Results/hetroscardistic_data.png)
 
 #### 3) RMSE plot
@@ -72,11 +72,17 @@ Through experiments on both **synthetic** and **real-world benchmark datasets**,
 
 
 ### Tubeloss QR Results
-#### 1) For Normal synthetic Data
 ![](Tubeloss_QR_Results/1.png)
 
-#### 2) For Hetroscardistic synthetic Data
-![](MAQR_Results/hetroscardistic_data.png)
 
-#### 3) RMSE plot
-![](MAQR_Results/maqr_rmse.png)
+### Tubeloss QR Results
+![](Orthogonal_QR_Results/1.png)
+
+
+
+
+
+
+
+
+

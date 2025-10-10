@@ -75,9 +75,19 @@ Through experiments on both **synthetic** and **real-world benchmark datasets**,
 ![](Tubeloss_QR_Results/1.png)
 
 
-### Tubeloss QR Results
+### Orthogonal QR Results
 ![](Orthogonal_QR_Results/1.png)
 
+
+### Trimmed Pinball loss (TPL) Results
+#### 1) For Normal Data
+![](MAQR_Results/1.png)
+
+#### 2) For Hetroscardisti Data
+![](MAQR_Results/hetroscardistic_data.png)
+
+#### 3) RMSE plot
+![](MAQR_Results/maqr_rmse.png)
 
 
 

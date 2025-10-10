@@ -38,12 +38,7 @@ Through experiments on both **synthetic** and **real-world benchmark datasets**,
   - **Expected Calibration Error (ECE)** — measures quantile calibration  
   - **RMSE** between clean and outlier-affected predictions — measures robustness
 
-
-
-## Results
-
 ### Synthetic Datasets used
-
 #### 1) Normal 
 ![](DATASET/synthetic_data.png)
 
@@ -52,5 +47,16 @@ Through experiments on both **synthetic** and **real-world benchmark datasets**,
 
 
 
+## Results
+
+### Pinball loss Results
+#### 1) For Normal synthetic Data
+![](DATASET/synthetic_data.png)
+
+#### 2) For Hetroscardistic synthetic Data
+![](DATASET/synthetic_data.png)
+
+#### 3) RMSE plot
+![](DATASET/synthetic_data.png)
 
 

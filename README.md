@@ -81,13 +81,13 @@ Through experiments on both **synthetic** and **real-world benchmark datasets**,
 
 ### Trimmed Pinball loss (TPL) Results
 #### 1) For Normal Data
-![](MAQR_Results/1.png)
+![](Trimmed_Pinball_loss_Results/1.png)
 
 #### 2) For Hetroscardisti Data
-![](MAQR_Results/hetroscardistic_data.png)
+![](Trimmed_Pinball_loss_Results/2.png)
 
 #### 3) RMSE plot
-![](MAQR_Results/maqr_rmse.png)
+![](Trimmed_Pinball_loss_Results/tpl_rmse.png.png)
 
 
 

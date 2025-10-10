@@ -64,7 +64,7 @@ Through experiments on both **synthetic** and **real-world benchmark datasets**,
 #### 1) For Normal Data
 ![](MAQR_Results/1.png)
 
-#### 2) For Hetroscardisti Data
+#### 2) For Hetroscardistic Data
 ![](MAQR_Results/hetroscardistic_data.png)
 
 #### 3) RMSE plot
@@ -83,11 +83,11 @@ Through experiments on both **synthetic** and **real-world benchmark datasets**,
 #### 1) For Normal Data
 ![](Trimmed_Pinball_loss_Results/1.png)
 
-#### 2) For Hetroscardisti Data
+#### 2) For Hetroscardistic Data
 ![](Trimmed_Pinball_loss_Results/2.png)
 
 #### 3) RMSE plot
-![](Trimmed_Pinball_loss_Results/tpl_rmse.png.png)
+![](Trimmed_Pinball_loss_Results/tpl_rmse.png)
 
 
 
